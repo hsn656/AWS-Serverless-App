@@ -1,0 +1,14 @@
+{
+  "Records": [
+    {
+      "s3": {
+        "bucket": {
+          "name": "cdkstack-cdkhsnimagebucket4f030f08-1cr0bwass3wd6"
+        },
+        "object": {
+          "key": "image.jpg"
+        }
+      }
+    }
+  ]
+}
